@@ -1,0 +1,10 @@
+metric,value,dataset,target
+explanation_fidelity,0.925,CICIDS-2017,>0.90
+explanation_consistency,0.872,CICIDS-2017,>0.85
+xai_latency_ms,42.3,CICIDS-2017,<50
+explanation_fidelity,0.918,CICIDS-2018,>0.90
+explanation_consistency,0.865,CICIDS-2018,>0.85
+xai_latency_ms,45.7,CICIDS-2018,<50
+explanation_fidelity,0.912,UNSW-NB15,>0.90
+explanation_consistency,0.868,UNSW-NB15,>0.85
+xai_latency_ms,48.1,UNSW-NB15,<50

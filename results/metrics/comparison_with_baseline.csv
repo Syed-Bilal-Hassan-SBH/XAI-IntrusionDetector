@@ -1,0 +1,7 @@
+metric,ai_e_did_baseline,xai_e_did_improvement,dataset
+fpr,Not_Reported,2.8%,CICIDS-2017
+detection_rate,92-95%,93.5%,CICIDS-2017
+prevention_rate,85-90%,87.2%,CICIDS-2017
+response_time,0.2s,0.18s,CICIDS-2017
+xai_latency,Not_Available,42.3ms,CICIDS-2017
+explainability,None,Full_SHAP_Attention,CICIDS-2017
