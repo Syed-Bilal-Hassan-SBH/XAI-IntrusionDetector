@@ -8,6 +8,12 @@
 
 A deep learning framework for network intrusion detection combining GAN-LSTM-Autoencoder architecture with explainable AI (SHAP and LIME) for interpretable cyber threat detection.
 
+## Architecture Diagram
+
+<p align="center"> <img src="./architecture.png" width="100%" alt="Syed Bilal Hassan Banner"> </p>
+
+<h1 align="center">Proposed Architecture</h1>
+
 ## 📋 Project Overview
 
 XAI-IntrusionDetector is designed to detect network intrusions and cyber threats using deep learning models while providing interpretable explanations for model predictions. The project combines:
